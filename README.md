@@ -10,7 +10,7 @@
 
 Hey there 👋
 
-I’m Moinul Moin, a junior full-stack developer, creative designer who specializes in front-end development . I love to make user-focused designs into pixel-perfect websites or applications that run blazing fast from better backend.
+I’m Moinul Moin, full-stack JavaScript developer, creative designer who specializes in front-end development . I love to make user-focused designs into pixel-perfect websites or applications that run blazing fast from better backend.
 
 Want to know more about me? [Check out my portfolio.](https://moinulmoin.com/)
 
