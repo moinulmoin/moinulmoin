@@ -15,7 +15,7 @@ I’m Moinul Moin, full-stack JavaScript developer, creative designer who specia
 Want to know more about me? [Check out my portfolio.](https://moinulmoin.com/)
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently mastering **MERN Stack**
 
 - ⚡ Fun fact **I think I am robot**
 
