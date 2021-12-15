@@ -26,8 +26,6 @@ I’m Moinul Moin, JavaScript developer who specializes in front-end development
 <a href="https://twitter.com/immoinulmoin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immoinulmoin" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/immoinulmoin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="immoinulmoin" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/immoinulmoin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="immoinulmoin" height="30" width="40" /></a>
-<a href="https://codesandbox.com/moinulmoin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="moinulmoin" height="30" width="40" /></a>
-<a href="https://facbook.com/moinulmoinofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="immoinulmoin" height="30" width="40" /></a>
 </p>
 <br>
 
