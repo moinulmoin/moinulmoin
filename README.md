@@ -1,8 +1,6 @@
 <!--
 **moinulmoin/moinulmoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[![Moin's GitHub Banner](./assets/GithubHeader.png)](https://moinulmoin.com)
-
 # 💫About Me :
 🔭 I'm currently working with MERN Stack, Specially React, Nextjs!!
 
