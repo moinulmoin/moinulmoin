@@ -2,11 +2,11 @@
 **moinulmoin/moinulmoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 # 💫About Me :
-🔭 I'm currently working with MERN Stack, Specially React, Nextjs!!
+🔭 I'm currently working with React and its Ecosystem, Specially Nextjs, Tailwind!!
 
-🌱 I’m currently learning everything 😁
+🌱 I’m currently learning everything connected to React Ecosystem. 😉
 
-👯 I’m looking to collaborate with Tech Agency/Team
+👯 I’m looking for a long-term remote opportunity and ready to relocate. ✈
 
 ⚡ Fun fact: I love to play Online Games like Valorant, Apex Legends, etc
 
