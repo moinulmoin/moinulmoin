@@ -4,7 +4,7 @@
 # 💫About Me :
 🔭 I'm currently working with React and its Ecosystem, Specially Nextjs, Tailwind!!
 
-🌱 I’m currently learning everything connected to React Ecosystem. 😉
+🌱 I’m currently learning everything connected to React Ecosystem and Web3. 😉
 
 👯 I’m looking for a long-term remote opportunity and ready to relocate. ✈
 
