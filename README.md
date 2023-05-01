@@ -5,9 +5,7 @@
 
 🔭 I'm currently working with React and its Ecosystem, Fanatic for Nextjs, Tailwind! ❤️
 
-🌱 I’m currently learning everything connected to React Ecosystem and Web3. 😉
-
-👯 I’m looking for a opportunity to relocate to Europe. ✈
+🌱 I’m focusing on something and exploring everything. 😉
 
 ⚡ Fun fact: I love to do side-projects on interesting ideas. 😎
 
