@@ -1,7 +1,7 @@
 <!--
 **moinulmoin/moinulmoin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Hi 👋, I'm Moinul Moin. I am a full stack frontend engineer. I'm always ready to learn, improve, and contribute. 
+Hi 👋, I'm Moinul Moin. I am a Software Engineer. I'm always ready to learn, improve, and contribute. 
 
 # 💫 About Me:
 - 🏄‍ Community guy who loves being involved in communities and helping developers grow.
