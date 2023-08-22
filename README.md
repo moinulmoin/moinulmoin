@@ -4,7 +4,7 @@
 Hi 👋, I'm Moinul Moin. I am a Software Engineer. I'm always ready to learn, improve, and contribute. 
 
 # 💫 About Me:
-- 🏄‍ Community guy who loves being involved in communities.
+- 🏄‍ Community guy who loves being involved in communities and helping others.
 - 🌱 I’m currently doing everything using Typescript, React.js, and Node.js.
 - 👯 I’m open to collaborating on any interesting project.
 - 💻 I love exploring new things and building cool stuff.
